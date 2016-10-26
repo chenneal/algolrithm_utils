@@ -1,3 +1,5 @@
+/* 岛娘整理的算法题专用框架，前面有网址，非本人作品，侵权必删 */
+
 /*
     This code has been written by MinakoKojima, feel free to ask me question. Blog: http://www.shuizilong.com/house
     Template Date: 2015.10.12

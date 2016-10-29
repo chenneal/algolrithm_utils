@@ -21,7 +21,7 @@ using namespace std;
 typedef long long ll;
 typedef double D;
 typedef vector<int> VI;
-typedef vector<vector<int> > VVI;
+typedef vector< vector<int> > VVI;
 typedef map<int, int> MII;
 typedef set<int> SI;
 
